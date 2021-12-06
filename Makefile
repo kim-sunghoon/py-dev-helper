@@ -1,5 +1,5 @@
 clean: clean-pyc clean-test
-quality: set-style-dep check-quality
+quality: check-quality
 style: set-style
 set: set-stype-dep set-git
 
